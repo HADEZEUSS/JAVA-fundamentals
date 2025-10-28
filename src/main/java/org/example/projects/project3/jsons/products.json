@@ -1,0 +1,79 @@
+[
+  {
+    "productId": 1,
+    "name": "Apple MacBook Air M3",
+    "price": 1299.99,
+    "category": "ELECTRONICS",
+    "stockQuantity": 25
+  },
+  {
+    "productId": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 1199.00,
+    "category": "ELECTRONICS",
+    "stockQuantity": 40
+  },
+  {
+    "productId": 3,
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1499.50,
+    "category": "ELECTRONICS",
+    "stockQuantity": 18
+  },
+  {
+    "productId": 4,
+    "name": "Modern Black Leather Jacket",
+    "price": 249.99,
+    "category": "CLOTHING",
+    "stockQuantity": 60
+  },
+  {
+    "productId": 5,
+    "name": "Red Bull Racing Team Hoodie",
+    "price": 89.99,
+    "category": "CLOTHING",
+    "stockQuantity": 100
+  },
+  {
+    "productId": 6,
+    "name": "Mercedes-AMG Petronas Polo Shirt",
+    "price": 74.99,
+    "category": "CLOTHING",
+    "stockQuantity": 80
+  },
+  {
+    "productId": 7,
+    "name": "The Feynman Lectures on Physics",
+    "price": 149.95,
+    "category": "BOOKS",
+    "stockQuantity": 30
+  },
+  {
+    "productId": 8,
+    "name": "Brief Answers to the Big Questions",
+    "price": 19.99,
+    "category": "BOOKS",
+    "stockQuantity": 75
+  },
+  {
+    "productId": 9,
+    "name": "Surely You’re Joking, Mr. Feynman!",
+    "price": 17.50,
+    "category": "BOOKS",
+    "stockQuantity": 50
+  },
+  {
+    "productId": 10,
+    "name": "Oppenheimer: The Biography of J. Robert Oppenheimer",
+    "price": 24.99,
+    "category": "BOOKS",
+    "stockQuantity": 40
+  },
+  {
+    "productId": 11,
+    "name": "Uranium-235",
+    "price": 15000000,
+    "category": "OTHER",
+    "stockQuantity": 10
+  }
+]

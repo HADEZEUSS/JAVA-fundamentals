@@ -1,0 +1,17 @@
+[
+  {
+    "userId": 1,
+    "username": "Robert Oppenheimer",
+    "email": "robert.oppenheimer@gmail.com"
+  },
+  {
+    "userId": 2,
+    "username": "George Russell",
+    "email": "george.russell@gmail.com"
+  },
+  {
+    "userId": 3,
+    "username": "Max Verstappen",
+    "email": "max.verstappen@gmail.com"
+  }
+]
