@@ -27,7 +27,7 @@ public class Main {
         UserService userService = DatabaseRepository.getUserRepo();
 
         //Demo user & cart
-        User user = new User(null, "alice", "alice@example.com");
+        User user = new User(null, "Oppenheimer", "robert.oppenheimer@gmail.com");
         user = userService.save(user);
         ShoppingCart cart = new ShoppingCart(user);
 
