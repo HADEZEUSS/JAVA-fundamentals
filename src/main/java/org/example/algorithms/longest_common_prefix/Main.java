@@ -1,4 +1,4 @@
-package org.example.algorithms.longest_common_prefix.task;
+package org.example.algorithms.longest_common_prefix;
 
 public class Main {
     public static void main(String[] args) {
